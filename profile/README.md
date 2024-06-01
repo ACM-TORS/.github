@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the GitHub space of the ACM Transactions of Recommender Systems, ACM TORS. You find here an archive of our call for papers for special issues, and checklists for manuscript submissions and reviews. Visit https://tors.acm.org to learn more about ACM TORS, including how to submit a manuscript, and to read the latest issues and papers.
